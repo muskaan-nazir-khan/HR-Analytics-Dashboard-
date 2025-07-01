@@ -2,6 +2,8 @@
 This Excel-based dashboard provides a comprehensive overview of employee-related metrics to help HR professionals make data-driven decisions and monitor workforce health. The dashboard leverages Excel’s visual tools (charts, slicers, pivot tables) to present KPIs in an intuitive and interactive format.
 This dashboard focuses on visualizing key HR metrics such as attrition, department performance, demographics, and education trends. It is especially useful for identifying areas that need attention, like high attrition roles, and tracking workforce trends by gender, age, department, or education level.
 
+![Uploading HR ANALYTICS DASHBOARD.png…]()
+
 # KEY PERFORMANCE INDICATORS(KPIs)
 
 Total Employees	 -                       Total number of employees in the organization (1470)
